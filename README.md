@@ -1,7 +1,13 @@
 # 반갑습니다
 
-<div align=center>
-29살 새내기 개발자입니다.<br>
-</div>
+# 29살 새내기 개발자입니다.
 
-![younglee0207's github stats](https://github-readme-stats.vercel.app/api?username=younglee0207&show_icons=true)
+
+
+## Education
+
+-   삼성 청년 SW 아카데미 8기 진행중 (2022.07 ~ )
+
+## Award
+
+-   SSAFY 공통 프로젝트 우수상 [동네북](https://github.com/HyunseokCheong/TownBook)
