@@ -11,4 +11,4 @@
 ## Award
 
 -   SSAFY 공통 프로젝트 우수상 [동네북](https://github.com/younglee0207/TownBook)
--   SSAFY 특화 프로젝트 우수상 [가꿈]
+-   SSAFY 특화 프로젝트 우수상 [가꿈](https://github.com/younglee0207/Gaggum)
