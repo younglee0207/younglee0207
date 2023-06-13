@@ -10,7 +10,18 @@
 -   Phone: +82-10-8391-3333
 -   Portpolio: [Notion](https://www.notion.so/28b6d0ff61f8471493de9206e4115cfd?pvs=4)
 ## Skills
--   
+**Frontend**
+-   Android, Kotlin, Android Studio
+-   React, Javascript, SASS, CSS
+-   Vue, CSS
+-   PWA
+
+**Backend**
+-   Django(Python)
+
+**Cooperation**
+-   Git, Jira, Notion, Mattermost
+ 
 ## Project
 [**동네북**](https://github.com/younglee0207/TownBook)
 -   개요: 웹 페이지와 키오스크 기반의 도서 공유 IOT 서비스
