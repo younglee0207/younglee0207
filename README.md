@@ -13,7 +13,7 @@
 ## Project
 -   [동네북](https://github.com/younglee0207/TownBook)
 -   [가꿈(Simule)](https://github.com/younglee0207/Gaggum_Simule)
--   [가꿈(Robot))(https://github.com/younglee0207/Gaggum)
+-   [가꿈(Robot)](https://github.com/younglee0207/Gaggum)
 
 ## Award
 
