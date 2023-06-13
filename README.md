@@ -1,8 +1,11 @@
-반갑습니다
+반갑습니다, 이영재입니다.
 
-29살 새내기 개발자입니다.
+29살 프론트/안드로이드 개발자입니다.
 
-
+## Contact
+-   Email: younglee0207@gmail.com
+-   Phone: +82-10-8391-3333
+-   Portpolio: [Notion](https://www.notion.so/28b6d0ff61f8471493de9206e4115cfd?pvs=4)
 
 ## Education
 
